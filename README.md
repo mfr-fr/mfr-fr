@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mfr.contact@protonmail.com**
 
-- ⚡ Additional **I am not a professional and do not consider myself a professional**
+- ⚡ Additional : **I am not a professional and do not consider myself a professional**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
