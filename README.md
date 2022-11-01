@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MFR</h1>
 <h3 align="center">I'm a computer enthusiast and I just code as a hobby for fun</h3>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfr-fr&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfr-fr&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=mfr-fr&theme=buefy&show_icons=true" alt="github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfr-fr&layout=compact" /></a> |
 | ------------- | ------------- |
 
 
