@@ -9,6 +9,8 @@
 
 - 📄 Grouping link [http://mfr-hack.com](http://mfr-hack.com)
 
+- 📩 Contact me [https://t.me/mfr_fr](https://t.me/mfr_fr)
+
 - 📫 How to reach me **mfr.contact@protonmail.com**
 
 - ⚡ Additional : **I am not a professional and do not consider myself a professional**
@@ -16,6 +18,7 @@
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://instagram.com/hack.mfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hack.mfr" height="30" width="40" /></a>
+<a href="https://t.me/mfr_fr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mfr_fr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
