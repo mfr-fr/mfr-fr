@@ -5,8 +5,6 @@
 | ------------- | ------------- |
 
 
-- 📝 My doxing site [https://mfr-fr.github.io/dox/](https://mfr-fr.github.io/dox/)
-
 - 📄 Grouping link [http://mfr-hack.com](http://mfr-hack.com)
 
 - 📩 Contact me [https://t.me/mfr_fr](https://t.me/mfr_fr)
