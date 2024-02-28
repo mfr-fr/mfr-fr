@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 
 
-- 📄 Grouping link [http://mfr-hack.com](http://mfr-hack.com)
+- 📄 Grouping link [https://mfr-hack.com](https://mfr-hack.com)
 
 - 📩 Contact me [https://t.me/mfr_fr](https://t.me/mfr_fr)
 
